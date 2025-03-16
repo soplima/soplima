@@ -1,7 +1,7 @@
 ## Hi There 👋
 
-- 🔭 CS Major at UTFPR
-- 🌱 Data Science Enthusiast
+- 🔭 Data Science Enthusiast
+- 🌱 CS Major at UTFPR
 - 📫 How to find me: sop.lima13@gmail.com
 - 😄 Pronomes: Ela/Dela
 
