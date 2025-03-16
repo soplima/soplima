@@ -1,12 +1,12 @@
 ## Hi There 👋
 
-- 🔭 CS Majos at [UTFPR]
-- 🌱 [Data Science] Enthustast
-- 📫 How to find me: [sop.lima13@gmail.com]
-- 😄 Pronomes: [Ela/Dela]
+- 🔭 CS Major at UTFPR
+- 🌱 Data Science Enthusiast
+- 📫 How to find me: sop.lima13@gmail.com
+- 😄 Pronomes: Ela/Dela
 
 <div>
-  <a https://github.com/soplima">
+  <a href="https://github.com/soplima">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soplima&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soplima&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs"/>
   </a>
